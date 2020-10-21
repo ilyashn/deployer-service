@@ -1,0 +1,16 @@
+
+.idea/
+
+deployer-service.iml
+
+target/classes/com/wine/to/up/deployer/service/vo/ServiceVO.class
+
+target/classes/com/wine/to/up/deployer/service/ServiceApplication.class
+
+target/classes/com/wine/to/up/deployer/service/config/DockerClientBeanConfig.class
+
+target/classes/com/wine/to/up/deployer/service/controller/ServiceController.class
+
+target/classes/com/wine/to/up/deployer/service/request/ServiceRequest.class
+
+target/classes/com/wine/to/up/deployer/service/service/DockerService.class
